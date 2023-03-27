@@ -1,0 +1,5 @@
+com\visa\repository\PassangerRepository.class
+com\visa\VisamanagementApplication.class
+com\visa\entity\Passanger.class
+com\visa\service\PassangerService.class
+com\visa\entity\Passanger$PassangerBuilder.class
